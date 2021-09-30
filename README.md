@@ -1,2 +1,2 @@
 # Foundation-course
-A simple website
+A simple website with js css html
